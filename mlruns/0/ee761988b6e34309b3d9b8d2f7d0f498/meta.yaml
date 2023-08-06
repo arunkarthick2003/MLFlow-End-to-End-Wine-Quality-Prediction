@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Projects/MLFlow-End-to-End/mlruns/0/ee761988b6e34309b3d9b8d2f7d0f498/artifacts
+end_time: 1691318744672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee761988b6e34309b3d9b8d2f7d0f498
+run_name: nebulous-roo-478
+run_uuid: ee761988b6e34309b3d9b8d2f7d0f498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691318741733
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Projects/MLFlow-End-to-End/mlruns/0/8a57703ad38243afb8bba191d47c072c/artifacts
+end_time: 1691318347198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a57703ad38243afb8bba191d47c072c
+run_name: amazing-bug-938
+run_uuid: 8a57703ad38243afb8bba191d47c072c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691318344671
+status: 3
+tags: []
+user_id: hp

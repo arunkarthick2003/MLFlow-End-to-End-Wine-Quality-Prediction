@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Projects/MLFlow-End-to-End/mlruns/0/e3e01d53d4e945fdaa5f876f790fcfe9/artifacts
+end_time: 1691317890550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3e01d53d4e945fdaa5f876f790fcfe9
+run_name: bedecked-ape-122
+run_uuid: e3e01d53d4e945fdaa5f876f790fcfe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691317887606
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Projects/MLFlow-End-to-End/mlruns/0/83ff92e7d5bc4e81b75fcd6c15a70cae/artifacts
+end_time: 1691318836886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83ff92e7d5bc4e81b75fcd6c15a70cae
+run_name: brawny-auk-28
+run_uuid: 83ff92e7d5bc4e81b75fcd6c15a70cae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691318834202
+status: 3
+tags: []
+user_id: hp

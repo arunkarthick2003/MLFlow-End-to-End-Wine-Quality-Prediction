@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Projects/MLFlow-End-to-End/mlruns/0/36ffe3989e804e02b5828a62b7890586/artifacts
+end_time: 1691318409019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36ffe3989e804e02b5828a62b7890586
+run_name: adaptable-wren-206
+run_uuid: 36ffe3989e804e02b5828a62b7890586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691318406496
+status: 3
+tags: []
+user_id: hp
